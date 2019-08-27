@@ -19,8 +19,6 @@ Hopefully by reading or watching this bvlog, you will come away with a clearer d
 
 Evolving language isn't always clear. Terms often evolve to where previous generations can no longer understand new terminology. In some cases they might flip flop entirely.
 
-[Visual] : Typography of words that have had confounding effects on subsequent generations.
-
 As for myself, I'm Thom, and I've been in the computer industry for decades and an avid gamer well longer. Pong was my introduction into computer gaming, and I've been hooked ever since.
 
 These terms will be deconstructed from the perspective of a game enthusiast, programmer, computer science graduate, IT industry veteran, hobby linguist and nearly a half-century of experience with computers and computer games.
