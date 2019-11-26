@@ -2,7 +2,7 @@
 layout: post
 title:  "TGDL : Breaking the Ice"
 date:   2019-08-26 00:03:35 -0600
-categories: introduction
+categories: introduction, tgdl
 ---
 
 Welcome to the Game Lexicon. This blog focuses on terminology in and around Games, Video Games in particular, and terms used in game development. We plan to mirror this blog in video form on our youtube channel.
