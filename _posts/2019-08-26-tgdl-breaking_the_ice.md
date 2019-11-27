@@ -4,6 +4,7 @@ title:  "TGDL : Breaking the Ice"
 date:   2019-08-26 00:04:35 -0700
 categories: 
   - tgdl
+tags: 
   - introduction
 published: true
 ---
