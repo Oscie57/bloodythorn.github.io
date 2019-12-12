@@ -17,7 +17,7 @@ Below are some of the places you can find me on the Internet;
 * [email](mailto:thorn@bloodythorn.com)
 * [linkedin](https://www.linkedin.com/in/thom-green/)
 * [personal youtube](https://www.youtube.com/channel/UCL98_sJGIVYW_Umt9bu10RA)
-* [discord](bloodythorn#9259)
+* discord -> bloodythorn#9259
 * [reddit user](https://www.reddit.com/user/BloodyThorn)
 * [wiihacks subreddit](https://www.reddit.com/r/WiiHacks/)
 
