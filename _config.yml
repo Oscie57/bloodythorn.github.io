@@ -9,8 +9,9 @@ github_username:  bloodythorn
 google_analytics: UA-154424587-1
 
 header_pages:
-  - index.md
   - about.md
+  - index.md
+  - projects.md
 
 footer: 'view the <a href="https://github.com/bloodythorn/bloodythorn.github.io">github repository</a>'
 
