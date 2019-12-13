@@ -2,11 +2,8 @@
 layout: post
 title:  "TGDL : Perspective"
 date:   2019-11-26 00:14:35 -0700
-categories: 
-  - tgdl
-tags:
-  - concept
-  - graphics
+categories: [ tgdl ]
+tags: [ concept, graphics ]
 published: true
 ---
 
