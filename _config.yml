@@ -3,7 +3,7 @@ email: thorn@bloodythorn.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my blog where I discuss video games, programing and other interests.
 baseurl: ''
-url: 'https://www.bloodythorn.com'
+url: 'bloodythorn.github.io'
 github_username:  bloodythorn
 
 google_analytics: UA-154424587-1

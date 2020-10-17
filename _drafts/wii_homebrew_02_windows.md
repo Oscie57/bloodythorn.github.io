@@ -13,7 +13,7 @@ Currently I am working on a windows 10 computer. It has mediocre stats for gamin
 
 ## Setting up your environment in Windows
 
-Time for the first web link, [devkitPro.org](https://devkitpro.org/).
+BAM! Straight in with the first web link, [devkitPro.org](https://devkitpro.org/).
 
 There's still a fairly active community on this site. I personally haven't gotten involved yet because I already have waay too many social sites to focus on. However it would be a great place to go if you have issues.
 
@@ -39,9 +39,9 @@ Press 'start' and type 'msys', or if you're on a different version of windows yo
 
 I'm assuming the development environment was originally setup in linux, but tools like msys and cygwin, even the new Windows 10 Bash functionality will allow us to use all the tools we need in Windows. It will then use that system to cross compile a PowerPC application that we can run on the Wii via the Homebrew Channel.
 
-When the terminal opens, you should be in your home directory, 'C:\user\you'. If you type 'dir', or more appropriately 'ls' (yes, both will work), you'll get the directory listing for your home directory. What we want is in a different directory, but since this environment is simulated, it will be in a different location than the directory we just visited.
+When the terminal opens, you should be in your home directory, 'C:\user\you'. If you type 'dir', or more appropriately 'ls' (yes, both will work), you'll get the directory listing for your home directory. What we want is in a different directory, but since this environment is simulated, it will be in a different location than the directory we just visited in explorer.
 
-Type 'cd /opt/devkitpro' and it will take you to the root of the devkitPro install in msys. devkitPro uses the 'opt' (short for optional packages/software) in both the msys, and linux environments. If you type 'dir' again, we should see an 'examples' directory. What we want is in there.
+Type 'cd /opt/devkitpro' and it will take you to the root of the devkitPro install in msys. devkitPro uses the 'opt' (short for 'option packages') in both the msys, and linux environments. If you type 'dir' again, we should see an 'examples' directory. What we want is in there.
 
 Let's change directories again, 'cd examples/wii/' should take you into the directory for the Wii examples. If you installed all of the options during the initial install, you should have several more directories than just 'wii', but that's the one we want.
 
@@ -49,9 +49,9 @@ To see what is in here, type 'ls -alh' it should make a slightly different looki
 
 To explain the flags for how we changed the look of the directory, a - all entries, including hidden, l - long format listing, h - human readable. There will be different directories for each type of example that match the directories we went through in the file manager.
 
-But most importantly, is the *Makefile*. What this is is a 'project file' or more accurately called a build system configuration for the build system 'make'. Make is part of the GNU tool chain, and is used to configure larger projects that use the GNU compiler suite to build themselves.
+But most importantly, is the *Makefile*. What this is is a 'project file' or more accurately a build system configuration file for the build system 'make'. Make is part of the GNU tool chain, and is used to configure larger projects that use the GNU compiler suite to build themselves.
 
-Feel free to open with a text editor it and inspect it. Unfortunately we won't be going over makefiles much as it's an older technology, and we haven't gotten to a point where we'll need to manage our projects. We'll worry about that later.
+Feel free to open it with a text editor and inspect it. Unfortunately we won't be going over makefiles much, and we haven't gotten to a point where we'll need to manage our projects. We'll worry about that later.
 
 Okay, time to build the examples. From the '/opt/devkitpro/examples/wii' directory, type 'make all' and it should start to build all the examples. I have yet to do this and not have it work, so I don't really have any failure scenarios to run over. It should work if everything done up until now has been the same on your environment.
 
