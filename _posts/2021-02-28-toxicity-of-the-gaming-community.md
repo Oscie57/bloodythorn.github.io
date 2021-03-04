@@ -124,7 +124,7 @@
 
   Anyway, luckily I think this one realized they were unstable and disappeared from the scene. We have yet to have any more issues/encounters with said party.
 
-## Aches Is Gone.
+## Akis Is Gone.
 
   Recently, I had to boot a moderator that I thought I was on good terms with. 
 
